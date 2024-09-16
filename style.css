@@ -114,7 +114,7 @@ img {
 }
 
 #home {
-    background-image: url(../wbccafe/coffee4.jpg);
+    background-image: url("coffee4.jpg");
     min-height: 100vh;
     background-color:rgb(255, 255, 255)
     
@@ -126,7 +126,7 @@ img {
 
 /*--ニュース--*/
 #news {
-    background-image: url(../wbccafe/cafetime.jpg);
+    background-image: url("cafetime.jpg");
     height: 270px;
     margin-bottom: 40px;
 }
@@ -252,7 +252,7 @@ aside p {
 
 /*--メニューエリア--*/
 #menu {
-    background-image: url(../wbccafe/coffee2.jpg);
+    background-image: url("coffee2.jpg");
     min-height: 100vh;
 }
 
@@ -293,7 +293,7 @@ aside p {
 
 /*---問い合わせエリア---*/
 #contact {
-    background-image: url(../wbccafe/cafe3.jpg);
+    background-image: url("cafe3.jpg");
     min-height: 100vh;
     text-align: center;
 }
